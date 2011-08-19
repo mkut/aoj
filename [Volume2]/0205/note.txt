@@ -1,0 +1,8 @@
+[Title]Problem A: じゃんけん
+[Source]PC Koshien 2009, 2009-11-14
+
+[解法]
+やるだけ
+
+[提出]
+1:AC

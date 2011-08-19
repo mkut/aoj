@@ -1,0 +1,9 @@
+[Title]Problem A: Era Name
+[Source]ACM International Collegiate Programming Contest / JAG Practice Contest, Tokyo, 2010-11-28 
+
+[解法]
+sort()してlower_bound()
+
+[提出]
+1:RE y が大きい時 it == ds.end()になるのをスルー
+2:AC

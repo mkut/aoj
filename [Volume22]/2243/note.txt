@@ -1,0 +1,9 @@
+[Title]Problem B: Step Step Evolution
+[Source]ACM International Collegiate Programming Contest / JAG Practice Contest, Tokyo, 2010-11-28 
+
+[解法]
+greedy
+右足からと左足からの最小をとる
+
+[提出]
+1:AC

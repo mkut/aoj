@@ -1,0 +1,14 @@
+[Title]BMI
+[Source]PC Koshien 2005
+
+[解法]
+やるだけ
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:AC

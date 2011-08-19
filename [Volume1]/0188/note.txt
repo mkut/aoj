@@ -1,0 +1,8 @@
+[Title]Search
+[Source]Source: PC Koshien 2008
+
+[解法]
+シミュレーション
+
+[提出]
+1:AC

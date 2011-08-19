@@ -1,0 +1,14 @@
+[Title]Card Game
+[Source]PC Koshien 2004 (Modefied Format)
+
+[解法]
+やっただけ
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:AC

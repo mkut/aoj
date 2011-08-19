@@ -1,0 +1,15 @@
+[Title]Persistence
+[Source]PC Koshien 2008 (Extended Version)
+
+[解法]
+二分探索
+O(N logW) W:最大幅
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:AC

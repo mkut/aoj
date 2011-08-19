@@ -1,0 +1,14 @@
+[Title]Run Length
+[Source]PC Koshien 2005 (extended format)
+
+[解法]
+置換後文字列を動的に決定して置換
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:AC

@@ -1,0 +1,9 @@
+Exception: STATUS_STACK_OVERFLOW at eip=00410073
+eax=0050020C ebx=6120FDCE ecx=00092D3C edx=00401140 esi=6120FDD3 edi=00000000
+ebp=0028CD48 esp=0028CD34 program=C:\_\[SourceCodes]\#競技プログラミング\[OnlineJudge]\[AizuOnlineJudge]\!0223\c++.out, pid 904, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0028CD48  00410073  (00000001, 6120DAEC, 00C700F8, 61004A1D)
+0028CD78  61006DDA  (00000000, 0028CDB0, 610066E0, 7EFDE000)
+End of stack trace

@@ -1,0 +1,27 @@
+[Title]A Milk Shop
+[Source]PC Koshien 2005 (Extended Version)
+
+[解法]
+かかる時間をソートして足していく
+
+[注意点]
+答えは2^31より大きくなりうる(2^32にはおさまる)
+
+Sample Input
+10000
+60
+60
+60
+.
+.
+60
+0
+
+Sample Output
+??
+
+[提出]
+1:CE <algorithm>のinclude忘れ
+2:WA だめらしい
+3:WA 1人目は変わらない事にしてもだめらしい
+4:AC もとに戻して(1人目も動く)、intをuintに

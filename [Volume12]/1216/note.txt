@@ -1,0 +1,8 @@
+[Title]Problem A: Lost in Space
+[Source]ACM International Collegiate Programming Contest, Asia Regional Contest, Tsukuba, 2000-11-12
+
+[解法]
+全探索 Brute Force
+
+[提出]
+1:AC

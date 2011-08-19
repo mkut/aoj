@@ -1,0 +1,10 @@
+[Title]Problem B: Moonlight Farm
+[Source]ACM International Collegiate Programming Contest, Practice Contest for Japan Domestic, 2010-06-27
+
+[解法]
+実装
+
+[提出]
+1:OLE (@pku2155)
+2:WA Fも時間になってた…
+3:AC

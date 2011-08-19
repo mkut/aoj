@@ -1,0 +1,2 @@
+#include<iostream>
+int o(int n,int s,int u){int r=0;if(!(n+s))return 1;if(!n)return 0;if(s>n*n*9)return 0;for(int i=0;i<10;i++){if(i*n>s)break;if(u&(1<<i))r+=o(n-1,s-i*n,u^(1<<i));}return r;}main(){for(int n,s;std::cin>>n>>s;)std::cout<<o(n,s,1023)<<std::endl;}

@@ -1,0 +1,15 @@
+[Title]Expression
+[Source]PC Koshien 2004 (Modified Format)
+
+[解法]
+気合い(割り算なしなら少し楽だったか…)
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:WA 割り算も使ってた
+2:AC

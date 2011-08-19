@@ -1,0 +1,10 @@
+[Title]Problem C: Midnight Teatime
+[Source]University of Aizu, ACM-ICPC Japan Domestic Contest Warm Up II, 28 June, 2009
+
+[解法]
+左右のノードが示すお菓子のパターンに対して、何通りありうるかを記憶しておく
+
+[提出]
+1:WA
+2:WA 静的確保したけどだめ
+3:AC new delete で書きなおし。どこがダメだったかは不明

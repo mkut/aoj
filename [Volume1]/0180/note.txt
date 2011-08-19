@@ -1,0 +1,15 @@
+[Title]Stellar Performance of the Debunkey Family
+[Source]PC Koshien 2008
+
+[解法]
+最小全域木
+プリム法の逆
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:AC

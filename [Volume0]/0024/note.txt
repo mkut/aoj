@@ -1,0 +1,12 @@
+[Title]Physical Experiments
+[Source]PC Koshien 2003
+
+[解法]
+やるだけ？
+doubleで整数だからといってintへの変換がうまくいくとは限らない
+
+[提出]
+1:WA
+2:WA 誤差かと思って1e-7入れたけどダメ
+3:WA なんかやったけどだめ
+4:AC ceilの後に+0.5する

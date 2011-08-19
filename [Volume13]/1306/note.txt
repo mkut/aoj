@@ -1,0 +1,8 @@
+[Title]Problem B: Balloon Collecting
+[Source]ACM International Collegiate Programming Contest / Asia Regional Contest, Tokyo, 2010.12.12 
+
+[解法]
+DP
+
+[提出]
+1:AC

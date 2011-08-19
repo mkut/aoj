@@ -1,0 +1,8 @@
+[Title]Problem D:THE BYDOLM@STER
+[Source]Kyoto University Micro Computer Club: Fuka Cup 3
+
+[解法]
+DP
+
+[提出]
+1:AC

@@ -1,0 +1,9 @@
+[Title]Problem D: 無矛盾な単位系
+[Source]UTPC 2010
+
+[解法]
+Warshall Floyd Algorithm
+UTPC本番コピペ + multi case
+
+[提出]
+1:AC

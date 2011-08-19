@@ -1,0 +1,14 @@
+[Title]Middle-Square Method
+[Source]PC Koshien 2006 (extended)
+
+[解法]
+やるだけ
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:AC

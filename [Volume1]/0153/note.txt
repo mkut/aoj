@@ -1,0 +1,15 @@
+[Title]Triangle and Circle
+[Source]PC Koshien 2007
+
+[解法]
+幾何
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:WA bのときに、2つ目以降円の大きさ以内のチェックをしてなかった (距離/=0だからtrueに)
+2:AC

@@ -1,0 +1,16 @@
+[Title]Railway Lines
+[Source]PC Koshien 2004
+
+[解法]
+すれちがう位置を求めて、そこがどの区間か調べる
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:WA 区間10のときの出力がなかった
+2:WA デバッグ用の出力が残っていた
+3:AC

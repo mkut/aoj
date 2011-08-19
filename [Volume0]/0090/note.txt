@@ -1,0 +1,9 @@
+[Title]Overlaps of Seals
+[Source]PC Koshien 2005
+
+[解法]
+分割統治法
+pku1981
+
+[提出]
+1:AC

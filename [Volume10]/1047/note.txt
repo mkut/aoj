@@ -1,0 +1,10 @@
+[Title]Problem 07: Crop Circle
+[Source]PC Koshien 2009 Warm-Up, 2009/8/22
+
+[解法]
+幾何
+切り取られる部分を角度で求めた
+
+[提出]
+1:WA 完全に内側に入ってる場合をカウントしてた
+2:AC

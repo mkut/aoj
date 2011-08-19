@@ -1,0 +1,8 @@
+[Title]Trouble in Shinagawa's Artifacts
+[Source]PC Koshien 2009
+
+[解法]
+裏側の色と向きがあっているかどうか調べる
+
+[提出]
+1:AC

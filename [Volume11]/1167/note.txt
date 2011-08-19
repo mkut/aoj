@@ -1,0 +1,8 @@
+[Title]Problem C: Pollock's conjecture
+[Source]ACM-ICPC Japan Nationwide Contest, 2010/7/2 Tokyo
+
+[解法]
+DP
+
+[提出]
+1:AC

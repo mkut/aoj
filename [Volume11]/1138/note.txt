@@ -1,0 +1,10 @@
+[Title]Problem D: Traveling by Stagecoach
+[Source]ACM International Collegiate Programming Contest / Japan Domestic, 2005-07-01
+
+[解法]
+状態[街][残り馬券]で全通り調べる
+最大30*2^8 = 7680通り
+
+[提出]
+1:MLE 563000KB↑ 同じ状態が重複して探索してた
+2:AC 1084KB 修正。

@@ -1,0 +1,2 @@
+#include <iostream>
+main(){int n,i,s;std::cin>>n;for(;n--;){char S[2000];std::cin>>S;s=-1;for(i=0;S[i];s+=S[i++]-48);printf("%s wins.\n",(s/9+i)&1?"Audrey":"Fabre");}}

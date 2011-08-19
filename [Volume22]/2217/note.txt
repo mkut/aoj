@@ -1,0 +1,8 @@
+[Title]Problem B: Let's JUMPSTYLE
+[Source]Kyoto University Micro Computer Club: Fuka Cup 3
+
+[解法]
+記号を分けて塗りつぶし
+
+[提出]
+1:AC

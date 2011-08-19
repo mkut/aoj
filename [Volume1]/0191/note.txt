@@ -1,0 +1,9 @@
+[Title]Baby Tree
+[Source]PC Koshien 2008
+
+[解法]
+2層DP
+
+[提出]
+1:RE nをmにtypo
+2:AC

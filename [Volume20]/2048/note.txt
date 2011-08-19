@@ -1,0 +1,8 @@
+[Title]Problem A: Everlasting...?
+[Source]ACM International Collegiate Programming Contest, JAG Practice Contest, Tokyo, 2008-10-19 
+
+[解法]
+やるだけ
+
+[提出]
+1:AC

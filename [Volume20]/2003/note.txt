@@ -1,0 +1,9 @@
+[Title]Railroad Conflict
+[Source]ACM International Collegiate Programming Contest, Practice Contest for Japan Domestic, 2006-06-18
+
+[解法]
+ライブラリ作った
+
+[提出]
+1:WA 片方の上にあるかどうかしか判定したなかった。あと誤差
+2:AC

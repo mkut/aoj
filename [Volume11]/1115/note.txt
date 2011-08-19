@@ -1,0 +1,8 @@
+[Title]Multi-column List 
+[Source]ACM International Collegiate Programming Contest Japan Domestic, 2001
+
+[解法]
+実装
+
+[提出]
+1:AC

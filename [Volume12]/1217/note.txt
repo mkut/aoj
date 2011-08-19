@@ -1,0 +1,10 @@
+[Title]Problem B: Family Tree
+[Source]ACM International Collegiate Programming Contest, Asia Regional Contest, Tsukuba, 2000-11-12
+
+[解法]
+実装
+それぞれの親を覚えておく
+
+[提出]
+1:WA:PE 最後も改行するらしい
+2:AC

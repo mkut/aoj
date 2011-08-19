@@ -1,0 +1,9 @@
+[Title]Unable Count
+[Source]ACM International Collegiate Programming Contest Japan Domestic, 1999
+
+[解法]
+dpっぽくnの1重ループ
+範囲指定なかったから時間/メモリ怖かったけど大丈夫だった
+
+[提出]
+1:AC

@@ -1,0 +1,8 @@
+[Title]Area of Polygons
+[Source]ACM International Collegiate Programming Contest Japan Domestic, 1998
+
+[解法]
+各線分を1次関数として積分して絶対値を取る。
+
+[提出]
+1:AC

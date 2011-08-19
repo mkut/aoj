@@ -1,0 +1,8 @@
+[Title]Problem C:Mobile Phone Coverage
+[Source]ACM International Collegiate Programming Contest, Asia Regional (Tokyo), 1998-11-23
+
+[解法]
+座標圧縮
+
+[提出]
+1:AC

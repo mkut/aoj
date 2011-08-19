@@ -1,0 +1,7 @@
+[Title]Problem C: Accelerated Railgun
+[Source]The University of Aizu Programming Contest 2010, 29 May, 2010
+
+[解法]
+
+[提出]
+1:本番AC

@@ -1,0 +1,8 @@
+[Title]Fermat's Last Theorem 
+[Source]ACM International Collegiate Programming Contest Japan Domestic, 2000
+
+[解法]
+やるだけ
+
+[提出]
+1:AC

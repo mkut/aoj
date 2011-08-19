@@ -1,0 +1,9 @@
+Exception: STATUS_INTEGER_DIVIDE_BY_ZERO at eip=004011B5
+eax=000DB25F ebx=6120D86E ecx=0028CD44 edx=00000000 esi=6120D873 edi=00000000
+ebp=0028CD48 esp=0028CD10 program=C:\_\[SourceCodes]\#競技プログラミング\[OnlineJudge]\[AizuOnlineJudge]\!0528\gen.out, pid 5332, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0028CD48  004011B5  (00000002, 6120E354, 011400F8, 61004A1D)
+0028CD78  61006DDA  (00000000, 0028CDB0, 610066E0, 7EFDE000)
+End of stack trace

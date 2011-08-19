@@ -1,0 +1,8 @@
+[Title]Problem B: 列車の編成パートII
+[Source]ACM International Collegiate Programming Contest / Japan Domestic, 2006-06-30
+
+[解法]
+stringの走査したから時間ちょっと怖かったけど大丈夫だった
+
+[提出]
+1:AC 0.27s(1s)

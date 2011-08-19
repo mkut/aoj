@@ -1,0 +1,10 @@
+[Title]Problem C: Dungeon Quest II
+[Source]ACM International Collegiate Programming Contest / JAG Practice Contest, Tokyo, 2010-11-28 
+
+[解法]
+メモ化DFS
+
+[提出]
+1:TLE(9.99) 全探索してた！(ポーション飲む順番)
+2:WA メモ化DFS ポーションが無いとき、ポーションを連続で飲むときとかおかしい
+3:AC(0.29s)

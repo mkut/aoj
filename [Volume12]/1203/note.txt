@@ -1,0 +1,10 @@
+[Title]Problem D: Napoleon's Grumble
+[Source]ACM International Collegiate Programming Contest, Asia Regional (Tokyo), 1998-11-23	
+
+[解法]
+中心を固定して、外側に向かって探していく。
+一番長いのだけ出力用に、他は無視リストに
+
+[提出]
+1:WA 中心が違っても同じ文字列を中心が同じで含むものがあれば除く
+2:AC in_exでやってたら10sぐらいかかったけど、0.00s(8s)

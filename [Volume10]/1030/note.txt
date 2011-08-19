@@ -1,0 +1,17 @@
+[Title]Problem B: Cubes Without Holes
+[Source]University of Aizu, ACM-ICPC Japan Domestic Contest Warm Up I, 16 May, 2009
+
+[解法]
+色々やったあげく結局塗りつぶし
+O(nh)
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:WA 
+2:WA
+3:AC 上二回とも、入力が1-originであることによるエラー

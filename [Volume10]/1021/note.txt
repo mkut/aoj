@@ -1,0 +1,22 @@
+[Title]Problem C: Emacs-like Editor
+[Source]The University of Aizu Programming Contest 2009 Spring, 28 March, 2009
+
+[解法]
+シミュレーション
+とにかく仕様通りに
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:RE 空行を読んでなかった
+2:RE なおってなかった。一番下の行でもkしてた
+3:WA 空行読むのはなおしてない。デバッグ出力残ってた
+4:WA デバッグ削除。空行読むのはなおしてない。
+5:WA 空行読んでもダメ
+6:WA EOFでのkの不具合を修正。ダメ
+7:WA 改行kしたときカーソル動かないようにした/デバッグ出してた
+8:AC デバッグ削除。やっと…

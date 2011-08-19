@@ -1,0 +1,8 @@
+[Title]Problem G: Walking Ant
+[Source]ACM International Collegiate Programming Contest, Asia Regional Contest, Kyoto, 1999-12-04
+
+[解法]
+BFS
+
+[提出]
+1:AC

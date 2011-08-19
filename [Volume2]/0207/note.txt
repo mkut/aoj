@@ -1,0 +1,9 @@
+[Title]Problem C: ブロック
+[Source]PC Koshien 2009, 2009-11-14
+
+[解法]
+塗りつぶし
+
+[提出]
+1:RE maze[xs][ys] になってるところがあった
+2:AC

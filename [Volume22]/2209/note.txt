@@ -1,0 +1,10 @@
+[Title]Problem F: UTF-8
+[Source]UTPC 2010
+
+[解法]
+DP
+adhoc
+
+[提出]
+1:WA cをaにtypo...
+2:AC

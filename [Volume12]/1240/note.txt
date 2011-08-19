@@ -1,0 +1,9 @@
+[Title]Problem A: Unreliable Messengers
+[Source]ACM International Collegiate Programming Contest, Asia Regional Contest, Aizu, 2003-11-02
+
+[解法]
+シミュレーション
+逆操作なのを忘れず
+
+[提出]
+1:AC

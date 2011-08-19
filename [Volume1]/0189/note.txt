@@ -1,0 +1,8 @@
+[Title]Convenient Location
+[Source]PC Koshien 2008
+
+[解法]
+ワーシャルフロイド
+
+[提出]
+1:AC

@@ -1,0 +1,8 @@
+[Title]Problem A: Infected Computer
+[Source]Source: ACM-ICPC Japanese Alumni Group, Summer Camp (Day 2), Tokyo, 19 Sep 2009 
+
+[解法]
+シミュレーション？
+
+[提出]
+1:AC

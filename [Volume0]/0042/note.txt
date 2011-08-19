@@ -1,0 +1,14 @@
+[Title]A Thief
+[Source]PC Koshien 2004 (Extended)
+
+[解法]
+DP。ナップサック問題
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:AC

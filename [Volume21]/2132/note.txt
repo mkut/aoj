@@ -1,0 +1,9 @@
+Title: Problem B: Left Hand Rule
+Source: ACM-ICPC Japan Alumni Group Summer Camp 2008 , Day 2, Tokyo, Japan, 2008-09-13
+
+Method: |-
+  シミュレーション/Simulation
+
+Submittion:
+  - { Status: RE, Note: 初期条件がおかしかった }
+  - { Status: AC, Note: }

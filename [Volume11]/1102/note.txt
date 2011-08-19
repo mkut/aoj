@@ -1,0 +1,10 @@
+[Title]Calculation of Expressions
+[Source]ACM International Collegiate Programming Contest Japan Domestic, 1998
+
+[解法]
+実装
+構文解析
+
+[提出]
+1:WA 1iとか-1iでよかった
+2:AC

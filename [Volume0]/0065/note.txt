@@ -1,0 +1,15 @@
+[Title]Trading
+[Source]PC Koshien 2004
+
+[解法]
+やるだけ
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:WA 後半月だけでも出力してた
+2:AC

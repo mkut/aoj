@@ -1,0 +1,14 @@
+[Title]List of Top 3 Hills
+[Source]PC Koshien 2003
+
+[解法]
+2^31超えたらどうしようとびくびくしつつも面倒なのでそのまま。AC
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:AC

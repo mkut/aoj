@@ -1,0 +1,9 @@
+[Title]Problem D: Dice Room
+[Source]ACM International Collegiate Programming Contest / JAG Practice Contest, Tokyo, 2010-11-28 
+
+[解法]
+解説通り。妙に手こずった
+http://acm-icpc.aitea.net/index.php?plugin=attach&refer=2010%2FPractice%2F%CC%CF%B5%BC%C3%CF%B6%E8%CD%BD%C1%AA%2F%B9%D6%C9%BE&openfile=d.pdf
+
+[提出]
+1:AC

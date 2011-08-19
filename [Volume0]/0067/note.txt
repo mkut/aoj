@@ -1,0 +1,14 @@
+[Title]The Number of Island
+[Source]PC Koshien 2004
+
+[解法]
+塗りつぶしてカウント
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:AC

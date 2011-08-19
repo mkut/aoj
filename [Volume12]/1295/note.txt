@@ -1,0 +1,8 @@
+[Title]Problem A: Cubist Artwork
+[Source]ACM International Collegiate Programming Contest / Asia Regional Contest, Tokyo, 2009-11-08 
+
+[解法]
+同じ高さのブロックの大きい方を採用
+
+[提出]
+1:AC

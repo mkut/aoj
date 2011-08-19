@@ -1,0 +1,8 @@
+Title: ブレイブ・フォース・ストーリー
+Source:ACM International Collegiate Programming Contest , ACM-ICPC Japan Alumni Group Practice Contest for Japan Domestic 
+
+Method: |-
+  シミュレーションごりおし
+
+Submittion:
+  - { Status: AC, Note: 1.21s(8s)}

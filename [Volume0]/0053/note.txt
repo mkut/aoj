@@ -1,0 +1,14 @@
+[Title]Sum of Prime Numbers
+[Source]PC Koshien 2004
+
+[解法]
+素数表から順番に足す
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:AC

@@ -1,0 +1,15 @@
+[Title]Alphametic
+[Source]PC Koshien 2005 (Extended Version)
+
+[解法]
+全10通り計算する
+
+[注意点]
+一桁の0はOK
+桁数は多い
+
+[提出]
+1:WA 一桁の0もNGにしてた
+2:WA int使ってた。ダメすぎる
+3:WA 
+3:AC vector<int>にした

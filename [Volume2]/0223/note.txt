@@ -1,0 +1,8 @@
+[Title]Problem H:  Stray Twins
+[Source]PC Koshien 2010
+
+[解法]
+BFS
+
+[提出]
+1:AC

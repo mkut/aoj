@@ -1,0 +1,8 @@
+[Title]Problem H: 図書整理
+[Source]PC Koshien 2010
+
+[解法]
+各桁を下から帳尻合わせする
+
+[提出]
+1:AC

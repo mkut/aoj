@@ -1,0 +1,8 @@
+[Title]Problem G: みんなでジョギング
+[Source]PC Koshien 2009, 2009-11-14
+
+[解法]
+多倍長でごりおし
+
+[提出]
+1:AC

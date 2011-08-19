@@ -1,0 +1,9 @@
+Title: 問題 C しりとり
+Source: Kyoto University Programming Contest 2011 , Kyoto, Japan, 2011-08-06 
+
+Method: |-
+  常にaで終わるように
+  自分が重複しないように
+
+Submittion:
+  - { Status: AC, Note: }

@@ -1,0 +1,8 @@
+[Title]Problem C: Die Game
+[Source]ACM International Collegiate Programming Contest, Asia Regional Contest, Kyoto, 1999-12-04
+
+[解法]
+3面を記憶してシミュレーション
+
+[提出]
+1:AC

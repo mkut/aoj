@@ -1,0 +1,15 @@
+[Title]Area of Polygon
+[Source]PC Koshien 2007
+
+[解法]
+sin を足していく
+
+[注意点]
+丸め誤差に注意
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:AC

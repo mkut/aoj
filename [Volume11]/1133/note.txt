@@ -1,0 +1,8 @@
+[Title]Water Tank 
+[Source]ACM International Collegiate Programming Contest Japan Domestic, 2004
+
+[解法]
+シミュレーション simulation
+
+[提出]
+1:AC

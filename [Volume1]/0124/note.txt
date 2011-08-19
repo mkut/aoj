@@ -1,0 +1,15 @@
+[Title]League Match Score Sheet
+[Source]PC Koshien 2006 (Modified Format)
+
+[解法]
+安定ソートするだけ
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:CE stable_sort()
+2:AC

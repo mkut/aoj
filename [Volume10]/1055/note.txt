@@ -1,0 +1,9 @@
+[Title]Problem E: Huge Family
+[Source]The University of Aizu Programming Contest 2010, 29 May, 2010
+
+[解法]
+強連結成分分解
+
+[提出]
+1:MLE 流石にn^2は必要なかった　あと10007で余とるの忘れてた
+2:AC

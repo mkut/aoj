@@ -1,0 +1,12 @@
+[Title]Problem B: Headstrong Student
+[Source]ACM International Collegiate Programming Contest, JAG Practice Contest, Tokyo, 2008-10-19 
+
+[解法]
+愚直に割り算
+map重い
+
+[提出]
+1:TLE 9.99s(8s) mapで愚直に
+2:CE map -> array memset()
+3:CE <string>じゃなくて<cstring>らしい
+4:AC 0.39s

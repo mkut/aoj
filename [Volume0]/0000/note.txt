@@ -1,0 +1,14 @@
+[Title]QQ
+[Source]PC Koshien 2003
+
+[解法]
+とりあえず素直にfor二重
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:AC

@@ -1,0 +1,8 @@
+Title: koukyoukoukokukikou
+Source:ACM International Collegiate Programming Contest , ACM-ICPC Japan Alumni Group Practice Contest for Japan Domestic
+
+Method: |-
+  やるだけ
+
+Submittion:
+  - { Status: AC, Note: }

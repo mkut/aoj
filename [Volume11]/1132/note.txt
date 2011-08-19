@@ -1,0 +1,9 @@
+[Title]Problem D: Circle and Points 
+[Source]ACM International Collegiate Programming Contest Japan Domestic, 2004
+
+[解法]
+分割統治/divide and conquer
+誤差注意！引き算してからEPSと比較
+
+[提出]
+1:AC

@@ -1,0 +1,9 @@
+[Title]Problem D: A Popular Ice-creame Shop
+[Source]PC Koshien 2010
+
+[解法]
+やるだけ
+stringのコンストラクタ使ってみた
+
+[提出]
+1:AC

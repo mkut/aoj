@@ -1,0 +1,10 @@
+[Title]Spiral Footrace 
+[Source]ACM International Collegiate Programming Contest Japan Domestic, 1999
+
+[解法]
+貪欲法 greedy
+シミュレーション simulation
+
+[提出]
+1:WA 誤差死。旗は直線上に並ぶことがある
+2:AC

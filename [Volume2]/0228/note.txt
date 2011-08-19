@@ -1,0 +1,9 @@
+[Title]Problem C:  7セグメント
+[Source]PC Koshien 2010
+
+[解法]
+実装
+排他的論理和 xor
+
+[提出]
+1:AC

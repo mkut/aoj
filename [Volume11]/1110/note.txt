@@ -1,0 +1,9 @@
+[Title]Patience 
+[Source]ACM International Collegiate Programming Contest Japan Domestic, 2000
+
+[解法]
+ビットDP bit DP
+メモ化DFS memorizing DFS
+
+[提出]
+1:AC

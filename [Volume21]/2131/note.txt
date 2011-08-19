@@ -1,0 +1,8 @@
+Title: Problem A: Pi is Three
+Source: ACM-ICPC Japan Alumni Group Summer Camp 2008 , Day 2, Tokyo, Japan, 2008-09-13 
+
+Method: |-
+  愚直に探索
+
+Submittion:
+  - { Status:AC, Note: }

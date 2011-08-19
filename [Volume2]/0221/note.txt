@@ -1,0 +1,8 @@
+[Title]Problem F:  FizzBuzz
+[Source]PC Koshien 2010 (Extended Version)
+
+[解法]
+シミュレーション
+
+[提出]
+1:AC

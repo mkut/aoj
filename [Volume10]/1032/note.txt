@@ -1,0 +1,14 @@
+[Title]Problem D: Course Planning for Lazy Students
+[Source]University of Aizu, ACM-ICPC Japan Domestic Contest Warm Up I, 16 May, 2009
+
+[解法]
+BFS
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:AC 710 ms < 1s

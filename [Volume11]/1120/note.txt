@@ -1,0 +1,9 @@
+[Title]Pile Up! 
+[Source]ACM International Collegiate Programming Contest Japan Domestic, 2002
+
+[解法]
+シミュレーション simulation
+問題わかりにくい
+
+[提出]
+1:AC

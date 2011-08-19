@@ -1,0 +1,9 @@
+[Title]Polygonal Line Search
+[Source]ACM International Collegiate Programming Contest　/ Japan Domestic, 2005-07-01
+
+[解法]
+前からと後ろからで長さと曲がった方向を確認
+後ろからのときは曲がった方向が逆が正しいのに注意
+
+[提出]
+1:AC

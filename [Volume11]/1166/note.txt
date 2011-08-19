@@ -1,0 +1,9 @@
+[Title]Problem B: 迷図と命ず
+[Source]ACM-ICPC Japan Nationwide Contest, 2010/7/2 Tokyo
+
+[解法]
+座標二倍化
+BFS
+
+[提出]
+1:AC

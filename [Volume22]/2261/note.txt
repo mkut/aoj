@@ -1,0 +1,8 @@
+Title: 問題 C : [[iwi]]
+Source: University of Tokyo Programming Contest 2011 , Tokyo, Japan, 2011-05-14 
+
+Method: |-
+  最長共通部分列 / Longest Common Subsequence
+
+Submittion:
+  - { Status: AC, Note: }

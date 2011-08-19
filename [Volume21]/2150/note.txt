@@ -1,0 +1,9 @@
+[Title]Problem B: Matsuzaki Number
+[Source]ACM International Collegiate Programming Contest, Practice Contest for Japan Domestic, 2009-06-21
+
+[解法]
+シミュレーション
+P <= 100 なので、ちょっと広めにとってもNより大きい最小の素数～100番目以内の素数で事足りる
+
+[提出]
+1:AC 0.27s(8s)

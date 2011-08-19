@@ -1,0 +1,8 @@
+[Title]Problem C: K Poker
+[Source]Kyoto University Micro Computer Club: Fuka Cup 3
+
+[解法]
+実装
+
+[提出]
+1:AC

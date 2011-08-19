@@ -1,0 +1,8 @@
+Title: Problem B: Watchin' TVA
+Source:University of Aizu Programming Contest , Aizu-Wakamatsu, Japan, 2011-06-05 
+
+Method: |-
+  シミュレーション/実装
+
+Submittion:
+  - { Status: AC, Note: }

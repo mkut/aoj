@@ -1,0 +1,10 @@
+[Title]Problem D: Restrictive Filesystem
+[Source]ACM International Collegiate Programming Contest, Practice Contest for Japan Domestic, 2009-06-21
+
+[解法]
+シミュレーション
+区切りの地点と、そのセクタの識別子を保管しておく
+
+[提出]
+1:WA(PE)
+2:AC 最後にも改行入れる

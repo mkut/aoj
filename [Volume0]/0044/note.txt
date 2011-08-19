@@ -1,0 +1,14 @@
+[Title]Prime Number II
+[Source]PC Koshien 2004
+
+[解法]
+先にリストを作っておく
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:AC

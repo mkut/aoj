@@ -1,0 +1,14 @@
+[Title]Card Game
+[Source]日本情報オリンピック予選 2006年1月15日 
+
+[解法]
+やるだけ
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:AC

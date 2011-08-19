@@ -1,0 +1,16 @@
+[Title]Reverse Sequence
+[Source]PC Koshien 2003
+
+[解法]
+<algorithm> の reverse で
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:WA
+2:WA 改行削ってもダメ
+3:AC stringを使って

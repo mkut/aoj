@@ -1,0 +1,8 @@
+[Title]宇宙ヤシガニ
+[Source]ACM International Collegiate Programming Contest, Practice Contest for Japan Domestic, 2007
+
+[解法]
+yとzを全探索
+
+[提出]
+1:AC

@@ -1,0 +1,9 @@
+[Title]Get a Rectangular Field 
+[Source]ACM International Collegiate Programming Contest Japan Domestic, 2001
+
+[解法]
+最大矩形面積の問題
+DP
+
+[提出]
+1:AC

@@ -1,0 +1,11 @@
+[Title]Doctor's Research Rooms
+[Source]Source: PC Koshien 2007
+
+[解法]
+BFS
+直前の状態を覚えておいて最後に辿る
+
+[提出]
+1:WA スイッチ順か？あるいは自分の部屋の明かりを消したか？
+2:WA 両方直したけどダメ。・・・って、普通に明かりの初期値がおかしかった。 lswitch[l] = lとかひどい。
+3:AC

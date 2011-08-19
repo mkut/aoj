@@ -1,0 +1,13 @@
+[Title]Cards
+[Source]PC Koshien 2006
+
+[解法]
+ビットDPはどう考えてもTLE
+ダイクストラもだめぽ
+
+まとめた束を崩していく方向で考える。
+分割統治法の一種？ divide and conquer algorithm
+メモ化DFS memorizing DFS
+
+[提出]
+1:AC

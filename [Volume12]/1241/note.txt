@@ -1,0 +1,9 @@
+[Title]Problem B: Lagrange's Four-Square Theorem
+[Source]ACM International Collegiate Programming Contest, Asia Regional Contest, Aizu, 2003-11-02
+
+[解法]
+DP
+順番を考慮しないので、足す数→足した回数でDP
+
+[提出]
+1:AC

@@ -1,0 +1,8 @@
+[Title]Problem F: 危ない橋
+[Source]PC Koshien 2010
+
+[解法]
+ソートしてシミュレーション simulation
+
+[提出]
+1:AC

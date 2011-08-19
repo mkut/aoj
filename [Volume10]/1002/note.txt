@@ -1,0 +1,16 @@
+[Title]Extraordinary Girl (I)
+[Source]The University of Aizu
+
+[解法]
+意外と面倒
+中央の道を通るか上の道を通るかの２通りをシミュレート
+
+[注意点]
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:WA 余計なフラグが立ってた
+2:AC

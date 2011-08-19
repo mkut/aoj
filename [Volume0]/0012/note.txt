@@ -1,0 +1,19 @@
+[Title]A Point in a Triangle
+[Source]PC Koshien 2003
+
+[解法]
+時計回りに２点ずつとって、そのどちらの方向にあるかが一致しているかどうか
+#Milib/math/left_vector()
+
+[注意点]
+三角形になってないテストケースもある(?)
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:WA
+2:WA そのまま提出した
+3:WA Milibで書き直してもだめ
+4:AC 三角形になってない場合に対応した(線分に乗っているかどうか)

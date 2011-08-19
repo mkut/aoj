@@ -1,0 +1,17 @@
+[Title]Nature of Prime Numbers
+[Source]PC Koshien 2006 (Modified Format)
+
+[解法]
+そのままやるだけで実は通るらしい
+
+[注意点]
+uniqueだけでは削除されない
+erase(unique(begin, end),end);
+
+Sample Input
+
+Sample Output
+
+[提出]
+1:TLE 1550 ms > 1000 ms
+2:AC mapから配列に変えただけ.全然違う. 120ms

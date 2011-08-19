@@ -1,0 +1,8 @@
+[Title]Building a Space Station
+[Source]ACM International Collegiate Programming Contest Japan Domestic, 2003
+
+[解法]
+各点間に枝を全部作って クラスカル法 Kruskal's Algorithm で最小全域木探索
+
+[提出]
+1:AC
