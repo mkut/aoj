@@ -10,5 +10,5 @@ then
 	mv $dir/\!$1 .
 else
 	cp -r ${SP_PATH}/default \!$1
-	echo "/* aoj header */\n" > \!$1/c++.cpp
+	printf "#include <milib/template/aoj>\n\nint main()\n{\n\treturn 0;\n}\n" > \!$1/c++.cpp
 fi
