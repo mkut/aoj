@@ -9,6 +9,7 @@ elif [ -d $dir/\!$1 ]
 then
 	mv $dir/\!$1 .
 else
-	cp -r ${SP_PATH}/default \!$1
-	printf "#include <milib/template/aoj>\n\nint main()\n{\n\treturn 0;\n}\n" > \!$1/c++.cpp
+	mkdir \!$1
+	cd \!$1
+	template aoj.cpp
 fi
