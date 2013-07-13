@@ -1,9 +1,0 @@
-[Title]Problem A: Cutting Down Water Bills
-[Source]PC Koshien 2010
-
-[解法]
-やるだけ
-先月料金は固定
-
-[提出]
-1:AC

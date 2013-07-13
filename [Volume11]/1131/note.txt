@@ -1,9 +1,0 @@
-[Title]Unit Fraction Partition 
-[Source]ACM International Collegiate Programming Contest Japan Domestic, 2004
-
-[解法]
-バックトラック
-分母の小さい順に引いていく
-
-[提出]
-1:AC

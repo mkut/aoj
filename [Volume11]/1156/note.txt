@@ -1,9 +1,0 @@
-[Title]Problem D: ちょろちょろロボット 
-[Source]2008/7/4/Aizu
-
-[解法]
-ダイクストラ
-
-[提出]
-1:CE assert!!
-2:AC

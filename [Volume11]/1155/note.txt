@@ -1,8 +1,0 @@
-[Title]Problem C: 如何に汝を満足せしめむ？ いざ数え上げむ…
-[Source]2008/7/4/Aizu
-
-[解法]
-実装&parse
-
-[提出]
-1:AC

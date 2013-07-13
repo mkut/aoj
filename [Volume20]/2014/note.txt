@@ -1,9 +1,0 @@
-[Title]Surrounding Area
-[Source]ACM International Collegiate Programming Contest, Practice Contest for Japan Domestic, 2007
-
-[解法]
-DFS
-塗りつぶし
-
-[提出]
-1:AC

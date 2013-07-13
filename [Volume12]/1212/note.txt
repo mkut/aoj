@@ -1,9 +1,0 @@
-[Title]Problem E: Mirror Illusion
-[Source]ACM International Collegiate Programming Contest, Asia Regional Contest, Kyoto, 1999-12-04
-
-[解法]
-シミュレーション
-
-[提出]
-1:WA 違う方向で(1.0 0.5)に来たときにbreakしてた
-2:AC

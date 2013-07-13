@@ -1,8 +1,0 @@
-Title: 問題 B 蝉
-Source: Kyoto University Programming Contest 2011 , Kyoto, Japan, 2011-08-06 
-
-Method: |-
-  DP
-
-Submittion:
-  - { Status: AC, Note: }

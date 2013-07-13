@@ -1,8 +1,0 @@
-[Title]Problem G: Prime Quadruplet
-[Source]PC Koshien 2010
-
-[解法]
-素数列挙で四つ子素数のsetを作っておく
-
-[提出]
-1:AC 0.08s(1s) 手元1.281s

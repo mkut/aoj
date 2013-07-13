@@ -1,8 +1,0 @@
-[Title]Square Searching
-[Source]PC Koshien 2005 (Extended version)
-
-[解法]
-最大長方形探索の応用
-
-[提出]
-1:AC

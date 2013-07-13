@@ -1,8 +1,0 @@
-[Title]Problem E: 写真に写っている景色は?
-[Source]PC Koshien 2009, 2009-11-14
-
-[解法]
-全探索
-
-[提出]
-1:AC

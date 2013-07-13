@@ -1,8 +1,0 @@
-Title: A : スワップ暗号 
-Source: RTPC 2011
-
-Method: |-
-	逆からシミュレーション
-
-Submittion:
-  - { Status: AC, Note: structマクロ作った }

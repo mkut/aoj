@@ -1,9 +1,0 @@
-[Title]Problem B: Repeated Substitution with Sed
-[Source]ACM International Collegiate Programming Contest / Asia Regional Contest, Tokyo, 2009-11-08 
-
-[解法]
-DFS
-文字列長が狭義単調増加するので有限時間で終わる
-
-[提出]
-1:AC

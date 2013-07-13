@@ -1,8 +1,0 @@
-[Title]Problem B: Square Coins
-[Source]ACM International Collegiate Programming Contest, Asia Regional Contest, Kyoto, 1999-12-04
-
-[解法]
-DFS
-
-[提出]
-1:AC

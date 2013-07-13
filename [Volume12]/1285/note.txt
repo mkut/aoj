@@ -1,8 +1,0 @@
-[Title]Problem A: Grey Area
-[Source]ACM International Collegiate Programming Contest, Asia Regional Contest, Aizu, 2008-10-26 
-
-[解法]
-やるだけ
-
-[提出]
-1:AC

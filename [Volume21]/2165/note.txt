@@ -1,9 +1,0 @@
-[Title]Problem A: Strange String Manipulation
-[Source]ACM-ICPC Japanese Alumni Group, Summer Camp (Day 3), Tokyo, 20 Sep 2009 
-
-[解法]
-全探索
-R(0)は使わない
-
-[提出]
-1:AC 0.62s(8s)

@@ -1,9 +1,0 @@
-[Title]Problem B: 宝くじチェッカー
-[Source]UTPC 2010
-
-[解法]
-やるだけだった気がする
-UTPC本番コピペ + multi case
-
-[提出]
-1:AC

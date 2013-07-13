@@ -1,9 +1,0 @@
-[Title]Period
-[Source]PC Koshien 2005 (Modified Format)
-
-[解法]
-シミュレーション
-
-[提出]
-1:CE count()
-2:AC

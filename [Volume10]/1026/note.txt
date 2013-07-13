@@ -1,8 +1,0 @@
-[Title]Problem H: Hedro's Hexahedron
-[Source]The University of Aizu Programming Contest 2009 Spring, 28 March, 2009
-
-[解法]
-分割して数える
-
-[提出]
-1:AC

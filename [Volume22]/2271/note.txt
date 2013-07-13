@@ -1,8 +1,0 @@
-Title: 問題 A KUPC
-Source: Kyoto University Programming Contest 2011 , Kyoto, Japan, 2011-08-06 
-
-Method: |-
-  やるだけ
-
-Submittion:
-  - { Status: AC, Note: }

@@ -1,8 +1,0 @@
-[Title]Problem A: ICPC 得点集計ソフトウェア
-[Source]ACM International Collegiate Programming Contest / Japan Domestic, 2007-07-06
-
-[解法]
-合計から最高点と最低点を引く
-
-[提出]
-1:AC

@@ -1,9 +1,0 @@
-[Title]Problem B: e-Market
-[Source]ACM International Collegiate Programming Contest, Asia Regional Contest, Hakodate, 2001-11-11
-
-[解法]
-シミュレーション
-実装
-
-[提出]
-1:AC

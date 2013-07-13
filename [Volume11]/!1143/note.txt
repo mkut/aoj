@@ -1,7 +1,0 @@
-[Title]Problem C: 六角沼の六角大蛇
-[Source]ACM International Collegiate Programming Contest / Japan Domestic, 2006-06-30
-
-[解法]
-
-[提出]
-1:

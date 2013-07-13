@@ -1,8 +1,0 @@
-[Title]Problem A: Luck Manipulator
-[Source]ACM International Collegiate Programming Contest, Practice Contest for Japan Domestic, 2009-06-21
-
-[解法]
-シミュレーション
-
-[提出]
-1:AC

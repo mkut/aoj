@@ -1,9 +1,0 @@
-[Title]Deven-Eleven
-[Source]PC Koshien 2008
-
-[解法]
-全探索
-距離関数dの実装
-
-[提出]
-1:AC

@@ -1,9 +1,0 @@
-[Title]Problem J: Kobutanukitsuneko
-[Source]PC Koshien 2010
-
-[解法]
-連結かつIN=OUT
-UnionFind
-
-[提出]
-1:AC

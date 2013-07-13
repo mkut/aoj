@@ -1,7 +1,0 @@
-[Title]Problem I: Bicycle Diet
-[Source]PC Koshien 2010
-
-[解法]
-
-[提出]
-1:WA

@@ -1,9 +1,0 @@
-[Title]Problem D: ぐらぐら
-[Source]ACM-ICPC Japan Nationwide Contest, 2010/7/2 Tokyo
-
-[解法]
-木なのでDFS
-ピースpのチェックにはpの土台の幅が関係
-
-[提出]
-1:AC すごい時間かかった…

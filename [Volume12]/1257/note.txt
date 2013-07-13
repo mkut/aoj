@@ -1,8 +1,0 @@
-[Title]Problem A: Sum of Consecutive Prime Numbers
-[Source]ACM International Collegiate Programming Contest Asia Regional Contest, Tokyo, 2005-11-04 
-
-[解法]
-全探索
-
-[提出]
-1:AC

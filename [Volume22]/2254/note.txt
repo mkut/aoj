@@ -1,8 +1,0 @@
-Title: Fastest Route
-Source: ACM International Collegiate Programming Contest , ACM-ICPC Japan Alumni Group Practice Contest for Japan Domestic
-
-Method: |-
-  bit DP
-
-Submittion:
-  - { Status: AC, Note: 1.11s(8s)}

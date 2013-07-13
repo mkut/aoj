@@ -1,8 +1,0 @@
-Title: 問題 B : (iwi)
-Source: University of Tokyo Programming Contest 2011 , Tokyo, Japan, 2011-05-14
-
-Method: |-
-  やるだけ
-
-Submittion:
-  - { Status: AC, Note: }

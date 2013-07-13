@@ -1,8 +1,0 @@
-[Title]Problem A: Starship Hakodate-maru
-[Source]ACM International Collegiate Programming Contest, Asia Regional Contest, Hakodate, 2001-11-11
-
-[解法]
-上限小さいので全探索 Brute Force
-
-[提出]
-1:AC

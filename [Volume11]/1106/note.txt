@@ -1,9 +1,0 @@
-[Title]Factorization of Quadratic Formula
-[Source]ACM International Collegiate Programming Contest Japan Domestic, 1999
-
-[解法]
-因数分解して全探索 brute force
-
-[提出]
-1:WA a == 1 かつ c == 0 の時にq>=sを満たしていなかった
-2:AC

@@ -1,8 +1,0 @@
-[Title]Problem H:  高速バス
-[Source]PC Koshien 2009, 2009-11-14
-
-[解法]
-
-[提出]
-1:MLE
-2:AC 枝刈った

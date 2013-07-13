@@ -1,8 +1,0 @@
-[Title]Amida, the City of Miracle
-[Source]ACM International Collegiate Programming Contest, Practice Contest for Japan Domestic, 2006-06-18
-
-[解法]
-大量にメモリ確保して、配列サーチしつつたどる
-
-[提出]
-1:AC

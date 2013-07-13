@@ -1,8 +1,0 @@
-[Title]Problem E: トーマス・ライトの憂鬱
-[Source]UTPC 2010
-
-[解法]
-greedy
-
-[提出]
-1:AC

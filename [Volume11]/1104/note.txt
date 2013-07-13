@@ -1,8 +1,0 @@
-[Title]Where's Your Robot?
-[Source]ACM International Collegiate Programming Contest Japan Domestic, 1999
-
-[解法]
-シミュレーション
-
-[提出]
-1:AC

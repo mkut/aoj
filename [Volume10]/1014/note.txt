@@ -1,9 +1,0 @@
-[Title]Problem F: Computation of Minimum Length of Pipeline
-[Source]Aizu Programming Contest, University of Aizu, Aizu-Wakamatsu, 7-8 June, 2003
-
-[解法]
-温泉は全部同一とみなして最小全域木
-Kruskal's algorithm
-
-[提出]
-1:AC

@@ -1,8 +1,0 @@
-[Title]Eleven Puzzle
-[Source]PC Koshien 2008
-
-[解法]
-時間が。。。
-
-[提出]
-1:

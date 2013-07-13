@@ -1,8 +1,0 @@
-[Title]Problem C: Push!!
-[Source]ACM International Collegiate Programming Contest, Asia Regional Contest, Tsukuba, 2000-11-12
-
-[解法]
-dijkstra
-
-[提出]
-1:AC

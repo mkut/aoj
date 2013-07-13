@@ -1,8 +1,0 @@
-[Title]Problem D: 大当たり!
-[Source]PC Koshien 2010
-
-[解法]
-実装
-
-[提出]
-1:AC

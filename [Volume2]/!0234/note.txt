@@ -1,7 +1,0 @@
-[Title]Problem I: 会津の埋蔵金
-[Source]PC Koshien 2010 (Modified)
-
-[解法]
-
-[提出]
-1:WA dijkstra / 同じマスを2度掘る必要はない

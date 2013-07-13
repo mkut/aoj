@@ -1,7 +1,0 @@
-[Title]Problem G:  人生ゲーム
-[Source]PC Koshien 2010
-
-[解法]
-
-[提出]
-1:

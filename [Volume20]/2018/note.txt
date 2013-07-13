@@ -1,8 +1,0 @@
-[Title]Princess' Gamble 
-[Source]ACM International Collegiate Programming Contest, Practice Contest for Japan Domestic, 2008
-
-[解法]
-やるだけ
-
-[提出]
-1:AC

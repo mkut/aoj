@@ -1,8 +1,0 @@
-[Title]Ohgas' Fortune
-[Source]ACM International Collegiate Programming Contest / Japan Domestic, 2005-07-01
-
-[解法]
-全パターン試す
-
-[提出]
-1:AC

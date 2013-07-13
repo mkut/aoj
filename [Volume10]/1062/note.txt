@@ -1,9 +1,0 @@
-Title: Problem A: It's our delight!!
-Source: University of Aizu Programming Contest , Aizu-Wakamatsu, Japan, 2011-06-05 
-
-Method: |-
-
-Submittion:
-  - { Status: WA, Note: データセット1つしか見てなかった }
-  - { Status: WA, Note: 初期化を外でしてた }
-  - { Status: AC, Note: }

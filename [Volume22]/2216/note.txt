@@ -1,8 +1,0 @@
-[Title]Problem A: Summer of KMC
-[Source]Kyoto University Micro Computer Club: Fuka Cup 3
-
-[解法]
-やるだけ
-
-[提出]
-1:AC

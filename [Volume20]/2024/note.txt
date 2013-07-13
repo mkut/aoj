@@ -1,8 +1,0 @@
-[Title]Problem A: Blackjack
-[Source]ACM International Collegiate Programming Contest, Practice Contest, Tokyo, 2005-10-30 
-
-[解法]
-実装
-
-[提出]
-1:AC

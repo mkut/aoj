@@ -1,9 +1,0 @@
-[Title]Problem D: Trapezoids
-[Source]ACM International Collegiate Programming Contest, Asia Regional Contest, Kyoto, 1999-12-04
-
-[解法]
-実装
-やりやすい形に限定されてるから楽
-
-[提出]
-1:AC

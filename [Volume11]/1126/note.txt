@@ -1,8 +1,0 @@
-[Title]The Secret Number
-[Source]ACM International Collegiate Programming Contest Japan Domestic, 2003
-
-[解法]
-pku2030
-
-[提出]
-1:AC

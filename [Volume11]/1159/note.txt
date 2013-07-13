@@ -1,8 +1,0 @@
-[Title]Problem A: 次期町長
-[Source]2009/7/3/Tokyo
-
-[解法]
-シミュレーション
-
-[提出]
-1:AC

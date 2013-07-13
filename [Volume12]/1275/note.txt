@@ -1,9 +1,0 @@
-[Title]Problem A: And Then There Was One
-[Source]ACM International Collegiate Programming Contest / Asia Regional Contest, Tokyo, 2007-11-03 
-
-[解法]
-ヨセフス(Josephus)数らしい
-シミュレーション
-
-[提出]
-1:AC

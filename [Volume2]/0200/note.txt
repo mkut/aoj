@@ -1,8 +1,0 @@
-[Title]Traveling Alone: One-way Ticket of Youth
-[Source]PC Koshien 2009
-
-[解法]
-ワーシャルフロイド
-
-[提出]
-1:AC

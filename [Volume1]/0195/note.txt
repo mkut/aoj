@@ -1,8 +1,0 @@
-[Title]What is the Most Popular Shop in Tokaichi?
-[Source]PC Koshien 2009
-
-[解法]
-やるだけ
-
-[提出]
-1:AC

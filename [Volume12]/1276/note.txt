@@ -1,8 +1,0 @@
-[Title]Problem B: Prime Gap
-[Source]ACM International Collegiate Programming Contest / Asia Regional Contest, Tokyo, 2007-11-03 
-
-[解法]
-やるだけ
-
-[提出]
-1:AC

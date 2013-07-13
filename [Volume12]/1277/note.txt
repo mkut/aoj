@@ -1,9 +1,0 @@
-[Title]Problem C: Minimal Backgammon
-[Source]ACM International Collegiate Programming Contest / Asia Regional Contest, Tokyo, 2007-11-03 
-
-[解法]
-DP
-
-[提出]
-1:RE 1回休みマスで範囲外にアクセスしてた
-2:AC

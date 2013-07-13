@@ -1,9 +1,0 @@
-[Title]Problem D: 単位変換器
-[Source]東京大学プログラミングコンテスト2009
-
-[解法]
-parse
-
-[提出]
-1:WA pico が pic になってた
-2:AC

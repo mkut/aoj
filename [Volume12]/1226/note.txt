@@ -1,9 +1,0 @@
-[Title]Problem C: Fishnet
-[Source]ACM International Collegiate Programming Contest, Asia Regional Contest, Hakodate, 2001-11-11
-
-[解法]
-幾何
-ヘロンの公式 Heron's formula
-
-[提出]
-1:AC

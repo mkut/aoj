@@ -1,8 +1,0 @@
-Title: Problem B: Expected Allowance
-Source:ACM International Collegiate Programming Contest , Asia Regional Aizu, Aizu, Japan, 2008-10-26 
-
-Method: |-
-  やるだけだった
-
-Submittion:
-  - { Status: AC, Note: 0.14s(8s) }

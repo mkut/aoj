@@ -1,8 +1,0 @@
-[Title]Problem A: Keitai Message
-[Source]ACM International Collegiate Programming Contest, Practice Contest for Japan Domestic, 2005-06-19 / ACM-ICPC Japanese Alumni Group
-
-[解法]
-やるだけ
-
-[提出]
-1:AC

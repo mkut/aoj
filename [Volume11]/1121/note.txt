@@ -1,8 +1,0 @@
-[Title]Kanglish : Analysis on Artificial Language 
-[Source]ACM International Collegiate Programming Contest Japan Domestic, 2002
-
-[解法]
-やるだけ
-
-[提出]
-1:AC

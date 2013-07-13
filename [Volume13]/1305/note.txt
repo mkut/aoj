@@ -1,9 +1,0 @@
-[Title]Problem A: Membership Management
-[Source]ACM International Collegiate Programming Contest / Asia Regional Contest, Tokyo, 2010.12.12 
-
-[解法]
-DFS
-
-[提出]
-1:TLE グループの相互参照があるみたい→無限ループ
-2:AC

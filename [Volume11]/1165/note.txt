@@ -1,8 +1,0 @@
-[Title]Problem A: 角角画伯，かく悩みき
-[Source]ACM-ICPC Japan Nationwide Contest, 2010/7/2 Tokyo
-
-[解法]
-シミュレーション
-
-[提出]
-1:AC

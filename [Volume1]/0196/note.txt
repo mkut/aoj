@@ -1,8 +1,0 @@
-[Title]Baseball Championship
-[Source]PC Koshien 2009
-
-[解法]
-stable_sort()
-
-[提出]
-1:AC

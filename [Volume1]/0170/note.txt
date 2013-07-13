@@ -1,8 +1,0 @@
-[Title]Lunch
-[Source]PC Koshien 2007
-
-[解法]
-ゴリ押し全探索
-
-[提出]
-1:AC 0.87s(1s)

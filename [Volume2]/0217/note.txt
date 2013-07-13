@@ -1,8 +1,0 @@
-[Title]Problem B: Walking on the Hospital
-[Source]PC Koshien 2010
-
-[解法]
-やるだけ
-
-[提出]
-1:AC

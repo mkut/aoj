@@ -1,8 +1,0 @@
-[Title]Problem A: Sum of Consecutive Integers
-[Source]ACM International Collegiate Programming Contest, Practice Contest for Japan Domestic, 2010-06-27
-
-[解法]
-n個の場合を全探索ｓ
-
-[提出]
-1:AC

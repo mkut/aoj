@@ -1,8 +1,0 @@
-[Title]Binary Digit A Doctor Loved
-[Source]PC Koshien 2010
-
-[解法]
-greedyに削って0になるか
-
-[提出]
-1:AC

@@ -1,8 +1,0 @@
-[Title]Problem B:  お客様大感謝祭
-[Source]PC Koshien 2010
-
-[解法]
-貪欲法 greedy
-
-[提出]
-1:AC

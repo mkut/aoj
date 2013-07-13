@@ -1,9 +1,0 @@
-[Title]Problem F: Cleaning Robot
-[Source]ACM International Collegiate Programming Contest / Japan Domestic, 2005-07-01
-
-[解法]
-BFS
-状態[x][y][掃除済み] = 20*20*2^10 = 409,600 通り
-
-[提出]
-1:AC 1.66s(8s)

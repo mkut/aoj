@@ -1,8 +1,0 @@
-[Title]Princess' Marriage 
-[Source]ACM International Collegiate Programming Contest, Practice Contest for Japan Domestic, 2008
-
-[解法]
-greedy
-
-[提出]
-1:AC

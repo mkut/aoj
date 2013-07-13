@@ -1,8 +1,0 @@
-[Title]Problem D: 病院の部屋番号 
-[Source]PC Koshien 2009, 2009-11-14
-
-[解法]
-8進数表記する
-
-[提出]
-1:AC

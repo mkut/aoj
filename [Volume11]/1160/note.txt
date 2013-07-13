@@ -1,8 +1,0 @@
-[Title]Problem B: 島はいくつある？
-[Source]2009/7/3/Tokyo
-
-[解法]
-塗りつぶし
-
-[提出]
-1:AC
