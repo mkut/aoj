@@ -1,9 +1,0 @@
-Exception: STATUS_ACCESS_VIOLATION at eip=00401240
-eax=FFFF2492 ebx=00000006 ecx=00000006 edx=FFFFD41D esi=6120FDD3 edi=00000000
-ebp=0028CD48 esp=001ECD00 program=C:\_\[SourceCodes]\#競技プログラミング\[OnlineJudge]\[AizuOnlineJudge]\!1241\c++.out, pid 9168, thread main
-cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
-Stack trace:
-Frame     Function  Args
-0028CD48  00401240  (00000001, 6120DAEC, 00E200F8, 61004A1D)
-0028CD78  61006DDA  (00000000, 0028CDB0, 610066E0, 7EFDE000)
-End of stack trace

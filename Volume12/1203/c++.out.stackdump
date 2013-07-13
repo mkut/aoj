@@ -1,8 +1,0 @@
-Exception: STATUS_ACCESS_VIOLATION at eip=0040A589
-eax=61179E44 ebx=00737365 ecx=00C70258 edx=00000001 esi=0028CC40 edi=61179E44
-ebp=0028CBB8 esp=0028CBB8 program=C:\Users\mirai\Dropbox\sports_prog\AizuOnlineJudge\!1203\c++.out, pid 22728, thread main
-cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
-Stack trace:
-Frame     Function  Args
-0028CBB8  0040A589  (61179E44, 00000001, 0028CCAC, 0040FD3F)
-0028CC58  004331DF  (0028CCE0, 0028CCF0, 612058E8
